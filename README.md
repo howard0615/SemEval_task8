@@ -9,3 +9,9 @@
 ```bash=
 bash data_preprocess.sh
 ```
+
+## 開始訓練
+
+```bash=
+bash train.sh
+```
